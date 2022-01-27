@@ -22,7 +22,7 @@
     "react-spring": "^8.0.27",
     "react-three-fiber": "^4.2.8",
     "react-under-construction": "^0.3.0",
-    "three": "^0.117.1",
+    "three": "^0.137.0",
     "use-cannon": "^0.4.4"
   },
   "scripts": {
